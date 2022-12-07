@@ -1,0 +1,34 @@
+/*agragrar estilo al body*/
+
+body {
+    background-color: rgba(164, 173, 177, 0.096);
+    color: rgba(99, 16, 96, 0.849);
+    
+}
+/*selectores de clase. inician con un punto (.)*/
+.lista-de-gatos {
+    color: rgb(25, 97, 25);
+}
+
+/*selectores CSS. selectores de tipo. tamaño de fuent
+h2
+    font-size: 30px;
+    /*Ejemplo de Familias Tipograficas*/
+    font-family: Rubik;
+
+/*tamaño de la fuente*/
+h3 {
+    font-size: 25px;
+}
+/*Ejemplo de uso de id en imagenes*/
+#imagen-de-lasagna {
+    width: 300px;
+    border: radius 50%px;
+    border: width 5px;
+    border-color: rgb(109, 29, 29);
+}
+
+/*Ejemplo google fonts*/
+h1{
+    font-family: 'Rubik';
+}
